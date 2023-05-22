@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
-- Contact to me: alexsakai.ventures@gmail.com
+- Contact to me: kevinharuto430@gmail.com
 - Past Projects and Portfolio: 
   - <a href="https://ventures.vercel.app">Portfolio</a>
   - <a href="https://github.com/venture1981/NFT-Projects-Overview">NFT Projects Overview</a>
