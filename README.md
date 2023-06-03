@@ -39,7 +39,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 
 ![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500) -->
   
-## 👨‍💻 Currently working in Kokeshi MV [Website](https://www.kokeshimv.com), [Twitter](https://twitter.com/KokeshiMv), and [Discord](https://discord.gg/kokeshimv) as Developer.
+<!-- ## 👨‍💻 Currently working in Kokeshi MV [Website](https://www.kokeshimv.com), [Twitter](https://twitter.com/KokeshiMv), and [Discord](https://discord.gg/kokeshimv) as Developer. -->
 
 ![](https://minionicious.files.wordpress.com/2016/08/dave2.png)
 <!-- ![CWS](https://user-images.githubusercontent.com/89365150/202695915-8e27499d-c325-49e8-8d1e-9e8ccd88d673.png) -->
