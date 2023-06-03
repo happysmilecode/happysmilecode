@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - <a href="">Discord Community LuckyForever#7661</a>
 
 <h2 align="center">
-  <i color="red">8 years of experience with <b>Web/Mobile development and 3 years of Blockchain Space.</i>
+  <i color="red">8 years of experience with <b>Web/Mobile App development and 3 years of Blockchain Space.</i>
 <br />
 </h2>
 <h4>   
@@ -41,15 +41,15 @@ As a creative & passionate developer, and fast learner with detail and high qual
   
 ## 👨‍💻 Currently working in Kokeshi MV [Website](https://www.kokeshimv.com), [Twitter](https://twitter.com/KokeshiMv), and [Discord](https://discord.gg/kokeshimv) as Developer.
 
-<!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
-![CWS](https://user-images.githubusercontent.com/89365150/202695915-8e27499d-c325-49e8-8d1e-9e8ccd88d673.png)
+![](https://minionicious.files.wordpress.com/2016/08/dave2.png)
+<!-- ![CWS](https://user-images.githubusercontent.com/89365150/202695915-8e27499d-c325-49e8-8d1e-9e8ccd88d673.png) -->
 <!-- ![KokeshiMV](https://user-images.githubusercontent.com/89365150/231889036-afd7e3e8-ff3b-4d10-93af-1b346c43bc73.png) -->
 
 
 
 ## 🌱 Experience
 
-- Various kinds of Websites and Applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce platforms, etc
+- Various kinds of Websites and Mobile Applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce platforms, etc
 - Several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
 - Built P2E Games like Dice, Spinner(Roulette), RNGs(Random Number Generators), Moonshot, CoinFlip
 - Made Smart contracts and utility tokens
