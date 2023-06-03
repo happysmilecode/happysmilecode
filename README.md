@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
 - Contact to me: kevinharuto430@gmail.com
-- Past Projects and Portfolio: 
-  - <a href="https://ventures.vercel.app">Portfolio</a>
-  - <a href="https://github.com/venture1981/NFT-Projects-Overview">NFT Projects Overview</a>
+- You can find me here: 
+  - <a href="https://join.skype.com/invite/veNNMueJlE80">Skype chat</a>
+  - <a href="">Discord Community LuckyForever#7661</a>
 
 <h4 align="center">
-  <i><b>9 years of experience with Software(web and app) development and 3 years of Blockchain Space.</i>
+  <i color="red"><b>8 years of experience with Software(web and app) development and 3 years of Blockchain Space.</i>
 <br />
 As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
