@@ -23,12 +23,12 @@ Here are some ideas to get you started:
   - <a href="https://join.skype.com/invite/veNNMueJlE80">Skype chat</a>
   - <a href="">Discord Community LuckyForever#7661</a>
 
-<h4 align="center">
+<h1 align="center">
   <i color="red"><b>8 years of experience with Software(web and app) development and 3 years of Blockchain Space.</i>
 <br />
 As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
-</h4>
+</h1>
 
 <i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
 <h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡ Coding (๑′ᴗ‵๑)</h4>
