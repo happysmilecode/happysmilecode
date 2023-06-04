@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
  
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
-- Contact to me: <span style="font-size:20px">kevinharuto430@gmail.com</span>
+- Contact to me: <span style="font-size:200px">kevinharuto430@gmail.com</span>
 - You can find me here: 
   - <a href="https://join.skype.com/invite/veNNMueJlE80"><h1>Skype chat</h1></a>
   - <a href="">Discord Community <h1>LuckyForever#7661</h1></a>
