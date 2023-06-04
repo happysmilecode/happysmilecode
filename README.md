@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! 👋 <span>&nbsp;</span>![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
 <!--
 **best-lucky1030/best-lucky1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
+
  
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
 - Contact to me: <span style="font-size:30pt">kevinharuto430@gmail.com</span>
