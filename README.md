@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
  
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
-- Contact to me: kevinharuto430@gmail.com
+- Contact to me: <h1>kevinharuto430@gmail.com</h1>
 - You can find me here: 
-  - <a href="https://join.skype.com/invite/veNNMueJlE80">Skype chat</a>
-  - <a href="">Discord Community LuckyForever#7661</a>
+  - <a href="https://join.skype.com/invite/veNNMueJlE80"><h1>Skype chat</h1></a>
+  - <a href="">Discord Community <h1>LuckyForever#7661</h1></a>
 
 <h2 align="center">
   <i color="red">8 years of experience with <b>Web/Mobile App development and 3 years of Blockchain Space.</i>
