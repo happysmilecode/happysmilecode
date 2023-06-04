@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
 - Contact to me: <span style="font-size:30pt">kevinharuto430@gmail.com</span>
-- You can find me here: <span style="font-size:70px"><a href="https://join.skype.com/invite/veNNMueJlE80">Skype</a></span> <span>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">LuckyForever#7661</a>(Discord)</span>
+- You can find me here: <span style="font-size:30px;"><a href="https://join.skype.com/invite/veNNMueJlE80">Skype</a></span> <span>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">LuckyForever#7661</a>(Discord)</span>
   
 <h2 align="center">
   <i color="red">8 years of experience with <b>Web/Mobile App development and 3 years of Blockchain Space.</i>
