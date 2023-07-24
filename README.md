@@ -1,20 +1,5 @@
 ### Hi there! 👋 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
-<!--
-**best-lucky1030/best-lucky1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
  
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
@@ -54,8 +39,8 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - DEX, Defi, DAO, Dapps
   
 
-<h1 align="center">Hi 👋, I'm HappyCoder</h1>
-<h3 align="center">A passionate frontend developer from Estonia</h3>
+<h1 align="center">HappyCoder Here!</h1>
+<h3 align="center">Web/Mobile App & Blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happysmilecode&label=Profile%20views&color=0e75b6&style=flat" alt="happysmilecode" /> </p>
 
