@@ -48,6 +48,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <span style="font-size:30px;" size="30px"><a href="https://join.skype.com/invite/veNNMueJlE80">Click Here!</a></span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
