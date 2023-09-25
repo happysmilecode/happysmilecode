@@ -7,7 +7,7 @@
 - You can find me here: <span style="font-size:30px;" size="30px"><a href="https://join.skype.com/invite/veNNMueJlE80">Skype</a></span> <span>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">LuckyForever#7661</a>(Discord)</span>
   
 <h2 align="center">
-  <i color="red">8 years of experience with <b>Web/Mobile App development and 3 years of Blockchain Space.</i>
+  <i color="red">8 years of experience with <b>Web/Mobile App development and 3 years of experience in Blockchain Space.</i>
 <br />
 </h2>
 <h4>   
