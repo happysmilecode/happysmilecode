@@ -3,7 +3,7 @@
 
  
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
-- Contact to me: <span style="font-size:30pt">kevinharuto430@gmail.com | fantasydev1225@gmail.com</span>
+- Contact to me: <span style="font-size:30pt">fantasydev1225@gmail.com</span>
 - You can find me here: <span style="font-size:30px;" size="30px"><a href="https://join.skype.com/invite/veNNMueJlE80">Skype</a></span> <span>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">LuckyForever#7661</a>(Discord)</span>
   
 <h2 align="center">
