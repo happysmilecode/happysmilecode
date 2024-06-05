@@ -3,7 +3,7 @@
 
  
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
-- Contact to me: <span style="font-size:30px;" size="30px"><a href="https://join.skype.com/invite/veNNMueJlE80">Skype</a></span> <span>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">luckyforever2430</a>(Discord)</span>
+- Contact to me: <a href="#">luckyforever2430</a>(Discord)</span>
   
 <h2 align="center">
   <i color="red">8 years of experience with <b>Web | Mobile App | AI | Blockchain </i>
@@ -18,6 +18,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡ Coding (๑′ᴗ‵๑)</h4>
 
 <!-- ## 👨‍💻 Currently working in [MetaKongz](https://www.metakongz.art) as Team Member and [Discord](https://discord.gg/metakongzgc) Server.
+<!-- ## 👨‍💻 Currently working in <span style="font-size:30px;" size="30px"><a href="https://join.skype.com/invite/veNNMueJlE80">Skype</a></span> <span>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Server.
 
 ![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500) -->
   
