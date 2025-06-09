@@ -3,7 +3,7 @@
 
  
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
-- Contact to me: <a href="#">luckyforever2430</a>(Discord)</span>
+- @ilovechallenge: telegram
   
 <h2 align="center">
   <i color="red">8 years of experience with <b>Web | Mobile App | AI | Blockchain </i>
